@@ -22,7 +22,7 @@ git commit -m "commit message"
 git push origin main
 ```
 
-5. To pull the new things from the original repo
+5. To pull the new things from the original repo\
     a. check if you have a remote:
     ```
     git remote -v
@@ -44,7 +44,7 @@ git push origin main
 6. Resolve any conflicts (if necessary):
 If there are any conflicts between your changes and the changes from the original repository, you'll need to resolve these conflicts manually. The terminal will guide you on files that need attention.
 
-7. Push the merged changes to your repository (after updating the repository you have to update your own private repository)
+7. Push the merged changes to your repository (after updating the repository you have to update your own private repository)\
 *Check steps 1 - 4 before doing this step*
 ```
 git push origin main
