@@ -37,7 +37,7 @@ git push origin main
     ```
     d. Merge the changes into your current branch:
     ```
-    git checkout main
+    git switch main
     git merge upstream/main
     ```
 
