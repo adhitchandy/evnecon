@@ -45,8 +45,8 @@ git push origin main
 If there are any conflicts between your changes and the changes from the original repository, you'll need to resolve these conflicts manually. The terminal will guide you on files that need attention.
 
 7. Push the merged changes to your repository (after updating the repository you have to update your own private repository)\
-*Check steps 1 - 4 before doing this step*
+
 ```
-git push origin main
+git push -u origin main
 ```
 
