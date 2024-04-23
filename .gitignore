@@ -1,4 +1,4 @@
 .vscode/*
 */Manifest.toml
 modelling/future_material/*
-.DS_Store/*
+.DS_Store
