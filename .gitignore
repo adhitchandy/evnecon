@@ -1,4 +1,7 @@
 .vscode/*
-*/Manifest.toml
+Manifest.toml
 modelling/future_material/*
+modelling/META-2021/*
+.lintr
+
 .DS_Store
