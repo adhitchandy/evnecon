@@ -24,7 +24,7 @@ data_inst <- eutl_oha_data %>%
   filter(year %in% c(2009:2017))
 
 colnam <- colnames(data_inst)
-todel = colnam[!colnam %in% c(
+todel <- colnam[!colnam %in% c(
         "installationidentifier",
         "account_holder",
         "registry_code",
