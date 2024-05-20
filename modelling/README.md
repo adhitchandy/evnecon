@@ -47,6 +47,35 @@ The easiest way of opening anything in VS Code is to open the folder that contai
 
 The rest of the homework will take place within the now (hopefully) opened [notebook](./Intro_Notebook.ipynb). In case you didn't manage to open it (and your colleagues couldn't help), feel free to [contact me](mailto:felix.schaumann@uni-hamburg.de).
 
+## 4. Using `.jl` Julia file instead of a Jupyter Notebook
+
+Some of you have problems with Jupyter Notebooks. You can of course run all Julia code outside of it, it just doesn't look as nice. But the nice thing is that normal Julia files also allow to execute code in cells.
+
+A cell is a section of code that is executed at the same time. It looks like this:
+```julia
+#%% this is the beginning of a cell
+
+some_code_to_be_executed = here
+
+#%% this is the end of the cell
+```
+[Here](https://www.julia-vscode.org/docs/stable/userguide/keybindings/#Keyboard-shortcuts) are some useful keyboard shortcuts. Importantly:
+
+- execute one line: `Ctrl+Enter`
+- execute one line and move to the next: `Shift+Enter`
+- execute one cell: `Alt+Enter`
+- execute one line and move to the next: `Alt+Shift+Enter`
+
+## 5. Tutorials
+
+There are five tutorials, all of them as Jupyter notebooks, some of them also as `.jl` files:
+
+1. [running_DICE.ipynb](./running_DICE.ipynb) (or [.jl](./running_DICE.jl)) and [running_META.ipynb](./running_META.ipynb)
+2. [optimising_DICE.ipynb](./optimising_DICE.ipynb) (or [.jl](./optimising_DICE.ipynb))
+3. [changing_parameters.ipynb](./changing_parameters.ipynb) (or [.jl](./changing_parameters.jl)) 
+4. [changing_components.ipynb](./changing_components.ipynb)
+5. [plotting_results.ipynb](./plotting_results.ipynb)
+
 ___
 
 ## Section with useful nerdy stuff
