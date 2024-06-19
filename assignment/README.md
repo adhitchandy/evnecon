@@ -8,7 +8,15 @@ Please submit an **ordered list of preferences** of five topics for the assignme
 
 See [below](#instructions-for-the-modelling-track) for the instructions on the modelling and empirical track, respectively.
 
-The **deadline** is Thursday, 21 June 2024, 11:59pm. The **world limit** for your term paper is 5000 words.
+The **deadline** is Friday, 21 June 2024, 11:59pm.
+
+The **world limit** for your term paper is 5000 words.
+
+Please employ a **citation and referencing style** that uses author-year in-text citations (e.g., "Lastname1 et al., 2024") and a full reference list at the end of the document, such as APA (e.g., see [here](https://files.taylorandfrancis.com/tf_APA.pdf)). Make sure you are consistent.
+
+While working on your project, you are encouraged to make use of the help that colleagues and technology can provide. Especially for technical and coding questions, it makes sense not to struggle in isolation. However, the novel research idea (development and implementation) as well as the writing of your term paper should be done by yourself without help from colleagues or generative AI. In general, we ask you to submit a help statement as part of your term paper, in which you declare for which tasks you relied upon help by colleagues or generative AI. Having relied on these for technical tasks will not affect the grading.
+
+You will find a list of grading criteria [below the instructions](#grading-criteria).
 
 ### Instructions for the modelling track
 
@@ -31,7 +39,7 @@ You can share the repository either via Email using software such as [WeTransfer
 
 #### Task
 
-If you get assigned one of the topics from the empirical track, you should extend a paper's analysis by an additional robustness test or further analysis. The papers all aim at identifying some causal relationship, and it is your task to enhance the analysis in this respect. For instance, if a paper first identifies the causal impact of temperatures on mortality and, second, makes projections into the future leveraging the estimates from the first step, you are expected to extend the causal estimation part of the *first* part.
+If you get assigned one of the topics from the empirical track, you should extend a paper's analysis by an additional robustness test or further analysis. The papers all aim at identifying some causal relationship, and it is your task to enhance the analysis in this respect. For instance, if a paper first identifies the causal impact of temperatures on mortality and, second, makes projections into the future leveraging the estimates from the first step, you are expected to extend the causal estimation of the *first* part.
 
 #### Content of your paper
 
@@ -184,3 +192,16 @@ The following papers discuss different approaches and challenges of capturing we
 - [Kolstad & Moore (2020)](https://doi.org/10.1093/reep/rez024)
 - [Cui (2020)](https://doi.org/10.1016/j.jeem.2020.102306)
 - [Bento et al. (2023)](https://doi.org/10.1016/j.jeem.2023.102843)
+
+---
+
+## Grading criteria
+
+- Focus on the assignment tasks and a topic-related research question
+- Coherent structure; logical development of the argument
+- Clear description of the own extension of the model/empirical analysis; reproducibility of all results, figures, tables, $\ldots$
+- Critical discussion; transparency and reflection on assumptions/limitations
+- Originality of the analysis; independent thought
+- Effective communication and professional style
+- Compliance with word count
+- Appropriate citing and referencing
